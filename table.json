@@ -1,0 +1,33 @@
+[
+    {
+            "id":1 ,
+            "name":"Harry",
+            "state": true
+    },
+    {
+            "id":2 ,
+            "name":"Julia",
+            "state": false
+    },
+    {
+            "id":3 ,
+            "name":"Galindo",
+            "state": false
+    },
+    {
+            "id":4 ,
+            "name":"Jose",
+            "state":false
+    },
+    {
+            "id":5 ,
+            "name":"Leslie",
+            "state":true
+    },
+    {
+            "id":6,
+            "name":"Patricio",
+            "state": true
+    }
+
+]
